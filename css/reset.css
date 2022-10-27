@@ -1,0 +1,52 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+li,
+dl,
+dt,
+dd,
+input,
+header,
+main,
+form {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font: 3.7333vw/1.5 PingFangSC-Regular;
+  color: #212121;
+  background-color: #fff;
+}
+ul,
+ol {
+  list-style: none;
+}
+i {
+  font-style: normal;
+}
+a {
+  color: #212121;
+  text-decoration: none;
+}
+img {
+  vertical-align: middle;
+}
+input {
+  border: none;
+  outline: none;
+  color: #212121;
+  background-color: #fff;
+}
+button {
+  cursor: pointer;
+  border: none;
+  background-color: #fff;
+}
